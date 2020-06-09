@@ -1,2 +1,2 @@
-class Post 
-end 
+class Post
+end
